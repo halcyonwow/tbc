@@ -21,3 +21,5 @@ You can research this on several pages like http://wowhead.com or http://wowwiki
 You can research this on several pages like http://tbc.openwow.com/ or http://wowhead.com/
 
 **Include Screenshots of the issue if necessary**
+
+[//]: # (This template objective is to guide you through report process. You are not required to use it in any way, although, we would appreciate as much detail as possible.)
