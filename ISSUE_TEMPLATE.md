@@ -9,7 +9,7 @@ Tell us what happens in detail (Where, When, What, Why, Who)
 
 Tell us what should happen instead
 
-**Steps to reproduce the issue**:
+**Steps to reproduce the problem**:
 
 1. 
 2. 
